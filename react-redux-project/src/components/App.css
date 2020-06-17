@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+.App-intro {
+  font-size: large;
+}
+.App-header {
+  background-color: rebeccapurple;
+  height: 30px;
+  padding: 0px;
+  color: white;
+}
